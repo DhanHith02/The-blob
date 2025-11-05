@@ -2,11 +2,10 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css" />
+    
   </head>
   <body>
-    <img
-      SIC="https://i2.wp.com/tching.com/wp-content/uploads/2021/09/boba-4-flavors.jpg?fit=500%2C500&ssl=1"
-    />
+    <img SRC="https://i2.wp.com/tching.com/wp-content/uploads/2021/09/boba-4-flavors.jpg?fit=500%2C500&ssl=1"/>
     <h1>The Blob</h1>
     <p>The blob only comes for food.</p>
   </body>
